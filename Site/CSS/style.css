@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    margin: 0px;
+}
+h1{
+    color: white;
+}
+.bloody{
+    color: red;
+}
+.sexy{
+    color: chocolate;
+}
+footer, hr{
+    background-color: black;
+}
+.Mary{
+    color: red; font-family: sans-serif, arial;
+    font-size: smaller;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Andrew{
+    color: blue; font-size: larger;
+    font-family: gothic;
+    font-style: initial;
+    border-style: groove;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 15px;
+}
+
+.Mary{
+    color: red;
+    font-family: verdana;
+    font-style: oblique;
+    font-size: 9x;
+    border-style: ridge;
+    border-color: rgb(189, 61, 61);
+    border-radius: 20px;
+}
+
+#John{
+    color: white;
+}
+#Johnny{
+    color: blue;
+}
+.BloodyWine{
+    border: 25px solid;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
